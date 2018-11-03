@@ -1,0 +1,2 @@
+步骤1 启动服务器 直接启动BIOServer 的main
+步骤2 启动多个客户端，直接启动ChatClient
